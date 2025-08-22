@@ -1,11 +1,8 @@
 # Hi there, I'm Esubalew Gosaye 👋
 
----
 
 ## 🚀 About Me
 I am a passionate software developer who loves building scalable, efficient, and innovative solutions. With a strong foundation in full-stack development and cloud technologies, I enjoy learning new tools, solving challenging problems, and contributing to impactful projects.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -33,12 +30,16 @@ I am a passionate software developer who loves building scalable, efficient, and
 
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📊 My Most Used Languages
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=esubalew-gosaye&layout=compact&theme=tokyonight)
+
+
 
 ---
 
@@ -56,3 +57,4 @@ I am a passionate software developer who loves building scalable, efficient, and
 
 ---
 ⭐️ From [esubalew-gosaye](https://github.com/esubalew-gosaye)
+```
